@@ -1,2 +1,2 @@
 # imo-scripts
-Tampermonkey  - scripts for imobiliare .ro titirez. ro anunutl. ro
+Tampermonkey  - scripts for imobiliare .ro titirez. ro anuntul. ro
